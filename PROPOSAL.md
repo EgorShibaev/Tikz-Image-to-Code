@@ -6,6 +6,7 @@ Deep Learning-Based Image-to-Code Translation for TikZ Diagrams
 #### Participants:
 - Egor Shibaev
 - Alexander Kovrigin
+- Ilia Kholkin
 
 #### Project Description:
 The proposed project aims to develop a deep learning model capable of converting images of TikZ diagrams, including hand-drawn ones, into TikZ code. This model will facilitate the automation of diagram coding, reducing manual coding effort and enhancing productivity.
